@@ -1,5 +1,8 @@
 JavaScript and DOM Manipulation homework 
 
+Javascript homework involving using javascript for search table creation on large data file.  This allows the user to filter everything as needed and the bonus section allows for multiple filters to be applied at the same time!
+
+
 
 # JavaScript Homework - JavaScript and DOM Manipulation
 
