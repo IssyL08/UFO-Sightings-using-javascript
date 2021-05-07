@@ -1,5 +1,5 @@
 //UFO level 1 javascript coding
-// Get references to the tbody element, input fields and button
+// Get references/variables
 var $tbody = document.querySelector("tbody");
 var $dateInput = document.querySelector("#datetime");
 var $searchBtn = document.querySelector("#search");
